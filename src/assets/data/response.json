@@ -1,0 +1,1022 @@
+{
+  "map": 
+  {
+    "nodes": [
+      {
+        "nodeId": 2,
+        "nodeType": 1,
+        "personId": "68fb16af-fd04-424c-b7f4-b727ff752baf",
+        "parentNodeId": 1,
+        "level": 1,
+        "personGender": 1,
+        "position": {
+          "x": 2700,
+          "y": 0
+        },
+        "mates": [
+          {
+            "hasChilds": true,
+            "children": [
+              {
+                "nodeId": 4,
+                "nodeType": 1,
+                "personId": "65ba6265-fd7f-4590-8ece-b99893cdfaae",
+                "parentNodeId": 3,
+                "level": 2,
+                "personGender": 1,
+                "position": {
+                  "x": 1650,
+                  "y": 200
+                },
+                "mates": [
+                  {
+                    "hasChilds": true,
+                    "children": [
+                      {
+                        "nodeId": 13,
+                        "nodeType": 1,
+                        "personId": "d72d90d3-8c8b-41cd-be77-3ad888d413d4",
+                        "parentNodeId": 7,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 150,
+                          "y": 400
+                        },
+                        "mates": [
+                          {
+                            "hasChilds": true,
+                            "children": [
+                              {
+                                "nodeId": 26,
+                                "nodeType": 1,
+                                "personId": "b1ddf2b1-6e55-42dc-94bb-6e57b53031f0",
+                                "parentNodeId": 20,
+                                "level": 4,
+                                "personGender": 1,
+                                "position": {
+                                  "x": 0,
+                                  "y": 600
+                                },
+                                "mates": []
+                              },
+                              {
+                                "nodeId": 27,
+                                "nodeType": 1,
+                                "personId": "deb19a8d-1cfa-4001-97ea-b18abc101be5",
+                                "parentNodeId": 20,
+                                "level": 4,
+                                "personGender": 0,
+                                "position": {
+                                  "x": 300,
+                                  "y": 600
+                                },
+                                "mates": []
+                              },
+                              {
+                                "nodeId": 28,
+                                "nodeType": 1,
+                                "personId": "0682027e-1e32-49a6-af80-b54ca85ec8b7",
+                                "parentNodeId": 20,
+                                "level": 4,
+                                "personGender": 1,
+                                "position": {
+                                  "x": 600,
+                                  "y": 600
+                                },
+                                "mates": []
+                              }
+                            ],
+                            "nodeId": 20,
+                            "nodeType": 2,
+                            "personId": "446a1637-23a4-44f3-828d-c2cd05d2c9bd",
+                            "parentNodeId": 13,
+                            "level": 3,
+                            "personGender": 0,
+                            "position": {
+                              "x": 450,
+                              "y": 400
+                            },
+                            "mates": []
+                          }
+                        ]
+                      },
+                      {
+                        "nodeId": 12,
+                        "nodeType": 1,
+                        "personId": "ecc51923-fd45-499f-b20a-1fc98bc1f823",
+                        "parentNodeId": 7,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 900,
+                          "y": 400
+                        },
+                        "mates": [
+                          {
+                            "hasChilds": true,
+                            "children": [
+                              {
+                                "nodeId": 25,
+                                "nodeType": 1,
+                                "personId": "c7f1b6d3-c67c-48fa-a316-27d21ccfeb46",
+                                "parentNodeId": 19,
+                                "level": 4,
+                                "personGender": 0,
+                                "position": {
+                                  "x": 900,
+                                  "y": 600
+                                },
+                                "mates": []
+                              },
+                              {
+                                "nodeId": 24,
+                                "nodeType": 1,
+                                "personId": "f43acb3c-d7f6-4b91-8e76-9000ffba2628",
+                                "parentNodeId": 19,
+                                "level": 4,
+                                "personGender": 0,
+                                "position": {
+                                  "x": 1200,
+                                  "y": 600
+                                },
+                                "mates": []
+                              }
+                            ],
+                            "nodeId": 19,
+                            "nodeType": 2,
+                            "personId": "f6770d0a-8b2c-4f82-92ad-293787f04ee4",
+                            "parentNodeId": 12,
+                            "level": 3,
+                            "personGender": 0,
+                            "position": {
+                              "x": 1200,
+                              "y": 400
+                            },
+                            "mates": []
+                          },
+                          {
+                            "hasChilds": true,
+                            "children": [
+                              {
+                                "nodeId": 23,
+                                "nodeType": 1,
+                                "personId": "cf7f6f49-29f5-4f50-af1e-5f64e1d5a6bf",
+                                "parentNodeId": 18,
+                                "level": 4,
+                                "personGender": 1,
+                                "position": {
+                                  "x": 1675,
+                                  "y": 600
+                                },
+                                "mates": [
+                                  {
+                                    "hasChilds": true,
+                                    "children": [
+                                      {
+                                        "nodeId": 33,
+                                        "nodeType": 1,
+                                        "personId": "8a54ce7e-82ec-4035-ad8c-2124ddf1d552",
+                                        "parentNodeId": 32,
+                                        "level": 5,
+                                        "personGender": 0,
+                                        "position": {
+                                          "x": 1850,
+                                          "y": 800
+                                        },
+                                        "mates": []
+                                      }
+                                    ],
+                                    "nodeId": 32,
+                                    "nodeType": 2,
+                                    "personId": "b6e9dc81-66b4-4f36-a07b-70c3e60ab6c8",
+                                    "parentNodeId": 23,
+                                    "level": 4,
+                                    "personGender": 0,
+                                    "position": {
+                                      "x": 1975,
+                                      "y": 600
+                                    },
+                                    "mates": []
+                                  }
+                                ]
+                              }
+                            ],
+                            "nodeId": 18,
+                            "nodeType": 2,
+                            "personId": "ecc51923-fd45-499f-b20a-1fc98bc1f823",
+                            "parentNodeId": 12,
+                            "level": 3,
+                            "personGender": 0,
+                            "position": {
+                              "x": 1650,
+                              "y": 400
+                            },
+                            "mates": []
+                          }
+                        ]
+                      },
+                      {
+                        "nodeId": 15,
+                        "nodeType": 1,
+                        "personId": "f92d13fd-7649-421f-b920-b3b9a7770a0f",
+                        "parentNodeId": 7,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 2250,
+                          "y": 400
+                        },
+                        "mates": [
+                          {
+                            "hasChilds": true,
+                            "children": [
+                              {
+                                "nodeId": 31,
+                                "nodeType": 1,
+                                "personId": "9983e27b-4cd5-4fca-9c88-8c6490e1563a",
+                                "parentNodeId": 21,
+                                "level": 4,
+                                "personGender": 0,
+                                "position": {
+                                  "x": 2100,
+                                  "y": 600
+                                },
+                                "mates": []
+                              },
+                              {
+                                "nodeId": 29,
+                                "nodeType": 1,
+                                "personId": "2b419c63-1ad0-4d60-b3ca-6e41320726e2",
+                                "parentNodeId": 21,
+                                "level": 4,
+                                "personGender": 1,
+                                "position": {
+                                  "x": 2400,
+                                  "y": 600
+                                },
+                                "mates": []
+                              },
+                              {
+                                "nodeId": 30,
+                                "nodeType": 1,
+                                "personId": "23769dd5-8b16-418b-acb9-2a6125df051c",
+                                "parentNodeId": 21,
+                                "level": 4,
+                                "personGender": 0,
+                                "position": {
+                                  "x": 2700,
+                                  "y": 600
+                                },
+                                "mates": []
+                              }
+                            ],
+                            "nodeId": 21,
+                            "nodeType": 2,
+                            "personId": "5cdcb0c8-e688-49b3-a980-435c88a6a424",
+                            "parentNodeId": 15,
+                            "level": 3,
+                            "personGender": 0,
+                            "position": {
+                              "x": 2550,
+                              "y": 400
+                            },
+                            "mates": []
+                          }
+                        ]
+                      },
+                      {
+                        "nodeId": 11,
+                        "nodeType": 1,
+                        "personId": "56d091e0-fe0e-454b-802a-d59da16444a4",
+                        "parentNodeId": 7,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 3000,
+                          "y": 400
+                        },
+                        "mates": [
+                          {
+                            "hasChilds": true,
+                            "children": [
+                              {
+                                "nodeId": 22,
+                                "nodeType": 1,
+                                "personId": "8f99549a-3d98-4f41-be67-1c6afd1f9a39",
+                                "parentNodeId": 17,
+                                "level": 4,
+                                "personGender": 1,
+                                "position": {
+                                  "x": 3175,
+                                  "y": 600
+                                },
+                                "mates": []
+                              }
+                            ],
+                            "nodeId": 17,
+                            "nodeType": 2,
+                            "personId": "fe6fb42d-051e-4c0e-a081-7f9554eb16af",
+                            "parentNodeId": 11,
+                            "level": 3,
+                            "personGender": 0,
+                            "position": {
+                              "x": 3300,
+                              "y": 400
+                            },
+                            "mates": []
+                          }
+                        ]
+                      },
+                      {
+                        "nodeId": 14,
+                        "nodeType": 1,
+                        "personId": "8895e109-29a2-44a1-b241-e5d194151aa8",
+                        "parentNodeId": 7,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 3600,
+                          "y": 400
+                        },
+                        "mates": []
+                      }
+                    ],
+                    "nodeId": 7,
+                    "nodeType": 2,
+                    "personId": "becbe2bd-b052-4eec-ae1f-5dc7497edd11",
+                    "parentNodeId": 4,
+                    "level": 2,
+                    "personGender": 0,
+                    "position": {
+                      "x": 1950,
+                      "y": 200
+                    },
+                    "mates": []
+                  }
+                ]
+              },
+              {
+                "nodeId": 5,
+                "nodeType": 1,
+                "personId": "8a8958e0-0140-4abe-ab1c-3d07c0d43beb",
+                "parentNodeId": 3,
+                "level": 2,
+                "personGender": 1,
+                "position": {
+                  "x": 3900,
+                  "y": 200
+                },
+                "mates": [
+                  {
+                    "hasChilds": true,
+                    "children": [
+                      {
+                        "nodeId": 35,
+                        "nodeType": 1,
+                        "personId": "b2ebe86f-e445-4850-ba41-6286a133ae86",
+                        "parentNodeId": 34,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 3900,
+                          "y": 400
+                        },
+                        "mates": []
+                      },
+                      {
+                        "nodeId": 36,
+                        "nodeType": 1,
+                        "personId": "c21bf566-8576-41e6-a290-904794c9dc2a",
+                        "parentNodeId": 34,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 4200,
+                          "y": 400
+                        },
+                        "mates": []
+                      }
+                    ],
+                    "nodeId": 34,
+                    "nodeType": 2,
+                    "personId": "f8df7b88-b6cf-4a1e-8724-426df97c9585",
+                    "parentNodeId": 5,
+                    "level": 2,
+                    "personGender": 0,
+                    "position": {
+                      "x": 4200,
+                      "y": 200
+                    },
+                    "mates": []
+                  },
+                  {
+                    "hasChilds": true,
+                    "children": [
+                      {
+                        "nodeId": 38,
+                        "nodeType": 1,
+                        "personId": "d61ab1d4-359b-4aa6-86a5-72239e102e3b",
+                        "parentNodeId": 37,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 4500,
+                          "y": 400
+                        },
+                        "mates": []
+                      },
+                      {
+                        "nodeId": 39,
+                        "nodeType": 1,
+                        "personId": "28688369-836f-4f3b-8046-c502e4bad6fd",
+                        "parentNodeId": 37,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 4800,
+                          "y": 400
+                        },
+                        "mates": []
+                      }
+                    ],
+                    "nodeId": 37,
+                    "nodeType": 2,
+                    "personId": "3d25362c-77d5-4948-8cd1-d7d1acd8d934",
+                    "parentNodeId": 5,
+                    "level": 2,
+                    "personGender": 0,
+                    "position": {
+                      "x": 4650,
+                      "y": 200
+                    },
+                    "mates": []
+                  }
+                ]
+              },
+              {
+                "nodeId": 6,
+                "nodeType": 1,
+                "personId": "bd13f929-88db-4e5b-a2bc-717407e49177",
+                "parentNodeId": 3,
+                "level": 2,
+                "personGender": 1,
+                "position": {
+                  "x": 5250,
+                  "y": 200
+                },
+                "mates": [
+                  {
+                    "hasChilds": true,
+                    "children": [
+                      {
+                        "nodeId": 41,
+                        "nodeType": 1,
+                        "personId": "3730299a-0580-49f9-9734-3aa6ce69bd37",
+                        "parentNodeId": 40,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 5100,
+                          "y": 400
+                        },
+                        "mates": []
+                      },
+                      {
+                        "nodeId": 42,
+                        "nodeType": 1,
+                        "personId": "1edb7c5b-d017-4dd4-ab00-08f303846e06",
+                        "parentNodeId": 40,
+                        "level": 3,
+                        "personGender": 1,
+                        "position": {
+                          "x": 5400,
+                          "y": 400
+                        },
+                        "mates": []
+                      },
+                      {
+                        "nodeId": 43,
+                        "nodeType": 1,
+                        "personId": "bdcafa54-00a1-4bb7-b7cc-2e2236913588",
+                        "parentNodeId": 40,
+                        "level": 3,
+                        "personGender": 0,
+                        "position": {
+                          "x": 5700,
+                          "y": 400
+                        },
+                        "mates": []
+                      }
+                    ],
+                    "nodeId": 40,
+                    "nodeType": 2,
+                    "personId": "c10b1f52-e6b0-4a3f-81e5-a6077cd5a7bf",
+                    "parentNodeId": 6,
+                    "level": 2,
+                    "personGender": 0,
+                    "position": {
+                      "x": 5550,
+                      "y": 200
+                    },
+                    "mates": []
+                  }
+                ]
+              }
+            ],
+            "nodeId": 3,
+            "nodeType": 2,
+            "personId": "cd0673dd-978d-4e3d-a84a-8ae915d5940a",
+            "parentNodeId": 2,
+            "level": 1,
+            "personGender": 0,
+            "position": {
+              "x": 3000,
+              "y": 0
+            },
+            "mates": []
+          }
+        ]
+      }
+    ],
+    "unions": [
+      {
+        "unionType": 1,
+        "start": {
+          "x": 2950,
+          "y": 50
+        },
+        "end": {
+          "x": 3000,
+          "y": 50
+        },
+        "connectPoint": {
+          "x": 2975,
+          "y": 50
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2975,
+          "y": 50
+        },
+        "end": {
+          "x": 1775,
+          "y": 200
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 1900,
+          "y": 250
+        },
+        "end": {
+          "x": 1950,
+          "y": 250
+        },
+        "connectPoint": {
+          "x": 1925,
+          "y": 250
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1925,
+          "y": 250
+        },
+        "end": {
+          "x": 275,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 400,
+          "y": 450
+        },
+        "end": {
+          "x": 450,
+          "y": 450
+        },
+        "connectPoint": {
+          "x": 425,
+          "y": 450
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 425,
+          "y": 450
+        },
+        "end": {
+          "x": 125,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 425,
+          "y": 450
+        },
+        "end": {
+          "x": 425,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 425,
+          "y": 450
+        },
+        "end": {
+          "x": 725,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1925,
+          "y": 250
+        },
+        "end": {
+          "x": 1025,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 1150,
+          "y": 450
+        },
+        "end": {
+          "x": 1200,
+          "y": 450
+        },
+        "connectPoint": {
+          "x": 1175,
+          "y": 450
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1175,
+          "y": 450
+        },
+        "end": {
+          "x": 1025,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1175,
+          "y": 450
+        },
+        "end": {
+          "x": 1325,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 1150,
+          "y": 450
+        },
+        "end": {
+          "x": 1650,
+          "y": 450
+        },
+        "connectPoint": {
+          "x": 1400,
+          "y": 450
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1400,
+          "y": 450
+        },
+        "end": {
+          "x": 1800,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 1925,
+          "y": 650
+        },
+        "end": {
+          "x": 1975,
+          "y": 650
+        },
+        "connectPoint": {
+          "x": 1950,
+          "y": 650
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1950,
+          "y": 650
+        },
+        "end": {
+          "x": 1975,
+          "y": 800
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1925,
+          "y": 250
+        },
+        "end": {
+          "x": 2375,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 2500,
+          "y": 450
+        },
+        "end": {
+          "x": 2550,
+          "y": 450
+        },
+        "connectPoint": {
+          "x": 2525,
+          "y": 450
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2525,
+          "y": 450
+        },
+        "end": {
+          "x": 2225,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2525,
+          "y": 450
+        },
+        "end": {
+          "x": 2525,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2525,
+          "y": 450
+        },
+        "end": {
+          "x": 2825,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1925,
+          "y": 250
+        },
+        "end": {
+          "x": 3125,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 3250,
+          "y": 450
+        },
+        "end": {
+          "x": 3300,
+          "y": 450
+        },
+        "connectPoint": {
+          "x": 3275,
+          "y": 450
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 3275,
+          "y": 450
+        },
+        "end": {
+          "x": 3300,
+          "y": 600
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 1925,
+          "y": 250
+        },
+        "end": {
+          "x": 3725,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2975,
+          "y": 50
+        },
+        "end": {
+          "x": 4025,
+          "y": 200
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 4150,
+          "y": 250
+        },
+        "end": {
+          "x": 4200,
+          "y": 250
+        },
+        "connectPoint": {
+          "x": 4175,
+          "y": 250
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 4175,
+          "y": 250
+        },
+        "end": {
+          "x": 4025,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 4175,
+          "y": 250
+        },
+        "end": {
+          "x": 4325,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 4150,
+          "y": 250
+        },
+        "end": {
+          "x": 4650,
+          "y": 250
+        },
+        "connectPoint": {
+          "x": 4400,
+          "y": 250
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 4400,
+          "y": 250
+        },
+        "end": {
+          "x": 4625,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 4400,
+          "y": 250
+        },
+        "end": {
+          "x": 4925,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 2975,
+          "y": 50
+        },
+        "end": {
+          "x": 5375,
+          "y": 200
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 1,
+        "start": {
+          "x": 5500,
+          "y": 250
+        },
+        "end": {
+          "x": 5550,
+          "y": 250
+        },
+        "connectPoint": {
+          "x": 5525,
+          "y": 250
+        }
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 5525,
+          "y": 250
+        },
+        "end": {
+          "x": 5225,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 5525,
+          "y": 250
+        },
+        "end": {
+          "x": 5525,
+          "y": 400
+        },
+        "connectPoint": null
+      },
+      {
+        "unionType": 2,
+        "start": {
+          "x": 5525,
+          "y": 250
+        },
+        "end": {
+          "x": 5825,
+          "y": 400
+        },
+        "connectPoint": null
+      }
+    ]
+  }
+}
