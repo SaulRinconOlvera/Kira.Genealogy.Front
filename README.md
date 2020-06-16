@@ -1,5 +1,10 @@
 # ArbolNuevo
 
+
+You shuld watch the project explanatory video on: https://www.youtube.com/watch?v=RN_0W4TZCZ4
+
+Thanks.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
 ## Development server
